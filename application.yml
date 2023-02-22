@@ -1,6 +1,9 @@
-info:
-  description: Spring Cloud Samples
-  url: https://github.com/spring-cloud-samples
+configserverdata:
+  foo: Spring Cloud Samples
+  bar: https://github.com/spring-cloud-samples
+  info:
+    description: Spring Cloud Samples
+    url: https://github.com/spring-cloud-samples
 eureka:
   client:
     serviceUrl:
